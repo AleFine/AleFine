@@ -60,7 +60,7 @@ I'm a passionate developer focused on creating efficient and scalable solutions.
   <a href="www.linkedin.com/in/kevin-e-parimango-gómez-832315174">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
+  <a href="">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="">
